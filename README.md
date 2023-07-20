@@ -14,7 +14,8 @@
 # <h3> DATASET </h3>
 
 More info about dataset can be found here:
-- Website : [Here's one of the sample data.](https://www.audible.com/pd/The-Power-Broker-Audiobook/B0051JH67K?ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=2756bc30-e1e4-4174-bb22-bce00b971761&pf_rd_r=MF7KC1JQF3A6GK2ET8XM)
+- **Website :** [Here's one of the sample data.](https://www.audible.com/pd/The-Power-Broker-Audiobook/B0051JH67K?ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=2756bc30-e1e4-4174-bb22-bce00b971761&pf_rd_r=MF7KC1JQF3A6GK2ET8XM)
+- **Size :** 1.9M rows
 
 <br>
 
