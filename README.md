@@ -1,9 +1,52 @@
 # AudioBook_DATAEngineering
-End-to-end Data Engineering process
+> End-to-end Data Engineering process
 
+#
 ### Technologies
 - Database : SQL , REST API
 - Language : Python
 
+#
 ### Data Pipeline Architecture
+
+
+
+# <h3> DATASET </h3>
+
+from **mySQL** Database example : <br>
+1st table
+
+| Book_ID	| Book Title | Book Subtitle |	Book Author |	Book Narrator |	Audio Runtime |	Audiobook_Type |	Categories |	Rating |	Total No. of Ratings |	Price |
+|---------|------------|---------------|--------------|---------------|---------------|----------------|-------------|---------|-----------------------|--------|
+| 1 |	Bamboozled by Jesus |	How God Tricked Me into the Life of My Dreams |	Yvonne Orji	| Yvonne Orji |	6 hrs and 31 mins |	Unabridged Audiobook |	Biographies & Memoirs |	5 |	47.0 |	$29.65 |
+| 2 |	Sixth Realm Part 1 |	A LitRPG Fantasy Series (The Ten Realms, Book 6) |	Michael Chatfield |	Neil Hellegers |	13 hrs and 33 mins |	Unabridged Audiobook |	Science Fiction & Fantasy |	4.5	| 98.0 |	$24.95 |
+| 3 |	Go Tell the Bees That I Am Gone |	Outlander, Book 9	| Diana Gabaldon	| Davina Porter |	27 hrs and 30 mins |	Unabridged Audiobook |	Science Fiction & Fantasy |	None	| NaN	| $41.99 |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+
+<br>
+
+2nd table
+
+| timestamp |	user_id	| book_id |	country |
+|-----------|---------|---------|---------|
+| 2021-05-01 00:00:01 |	ad8eca41 |	1584	| Portugal |
+| 2021-05-01 00:00:03	| 561b26c1 | 829	| United States of America |
+| 2021-05-01 00:00:04 |	81f149e5 |	1391 |	Japan |
+| ... | ... | ... | ... |
+
+<br>
+
+from **REST API** example :
+
+|   | conversion_rate |
+|---|-----------------|
+| 2021-04-01 |	31.194 |
+| 2021-04-02	| 31.290 |
+| 2021-04-03	| 31.256 |
+| ... | ... |
+
+<br>
+
+# <h3>Description</h3>
+
 
