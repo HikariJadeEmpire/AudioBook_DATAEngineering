@@ -9,6 +9,7 @@
 #
 ### Data Pipeline Architecture
 
+![Personal visualization - Hikari #39;s architecture](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/assets/118663358/edd67ad7-a8e3-4b70-b87b-09e09be6ee6b)
 
 
 # <h3> DATASET </h3>
