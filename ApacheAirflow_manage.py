@@ -92,7 +92,7 @@ with DAG(
         op_kwargs={
                     "transaction_path": mysql_output_path,
                     "conversion_rate_path": conversion_rate_output_path,
-                    "output_path": conversion_rate_output_path
+                    "output_path": final_output_path
                     },
     )
 
