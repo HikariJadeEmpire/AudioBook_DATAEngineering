@@ -70,7 +70,7 @@ To gain a better understanding, you can check out my separate data cleaning proc
 - **My Capture :**   [cap :camera:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/blob/main/AirflowJob.JPG)
 - **My CODE :**   [code :iphone:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/blob/main/ApacheAirflow_manage.py)
 
-![Personal visualization - Frame 2](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/assets/118663358/d2f0f872-7270-4a75-90e4-7468b121cdbc)
+![Data_Orchestration](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/assets/118663358/fa66e1ab-4414-4f12-8a7d-a8392396d55a)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering#audiobook_dataengineering)
