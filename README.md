@@ -3,8 +3,8 @@
 
 #
 ### Technologies
-- Database : SQL , REST API
-- Language : Python
+- Database : ```SQL``` , ```REST API```
+- Language : ```Python```
 
 #
 ### Data Pipeline Architecture
@@ -12,6 +12,11 @@
 
 
 # <h3> DATASET </h3>
+
+More info about dataset can be found here:
+- Website : [Here's one of the sample data.](https://www.audible.com/pd/The-Power-Broker-Audiobook/B0051JH67K?ipRedirectOverride=true&overrideBaseCountry=true&pf_rd_p=2756bc30-e1e4-4174-bb22-bce00b971761&pf_rd_r=MF7KC1JQF3A6GK2ET8XM)
+
+<br>
 
 from **mySQL** Database example : <br>
 1st table
@@ -48,5 +53,16 @@ from **REST API** example :
 <br>
 
 # <h3>Description</h3>
+To gain a better understanding, you can check out my separate data cleaning process here. <br>
+
+- Getting data from source :
+
+  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dTeNW17m5obf4TU7nM5JkfoBOAvKdaub)
+
+- Transforming data using ```Spark``` :
+
+  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M0-kGkxmUccp4w87P5Cqqz6yPH0O1pv5)
+
+# <h3>Apache Airflow</h3>
 
 
