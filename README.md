@@ -78,7 +78,7 @@ To gain a better understanding, you can check out my separate data cleaning proc
 
 <p>You can view my report and others by clicking the badge below.</p>
   
-<a href="https://lookerstudio.google.com/s/sIAgqJHUmuM">![Name of image](https://img.shields.io/badge/Looker-Audio_Book-blue?style=f?style=flat-square&logo=looker&logoColor=white)</a>
+<a href="https://lookerstudio.google.com/s/iGJQZnFZZr8">![Name of image](https://img.shields.io/badge/Looker-Audio_Book-blue?style=f?style=flat-square&logo=looker&logoColor=white)</a>
 <a href="https://github.com/HikariJadeEmpire/Main-Repository">![Name of image](https://img.shields.io/badge/Github-portfolio-green?style=f?style=flat-square&logo=github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/hikarii/">![Name of image](https://img.shields.io/badge/LinkedIn-hikari-blue?style=f?style=flat-square&logo=linkedin&logoColor=white)</a>
 <a href="https://www.instagram.com/hikarii.19/">![Name of image](https://img.shields.io/badge/instagram-hikari.19-rgb(222,49,99)?style=f?style=flat-square&logo=instagram&logoColor=white)</a>
