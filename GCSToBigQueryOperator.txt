@@ -1,0 +1,95 @@
+## 
+source : https://airflow.apache.org/docs/apache-airflow-providers-google/stable/operators/cloud/gcs.html#howto-operator-gcstobigqueryoperator
+##
+
+from airflow.providers.google.cloud.transfers.gcs_to_bigquery import GCSToBigQueryOperator
+
+load_csv = GCSToBigQueryOperator(
+    task_id='gcs_to_bq_example',
+    bucket='cloud-samples-data',
+    source_objects=['bigquery/us-states/us-states.csv'],
+    destination_project_dataset_table='dataset.table_name',
+    schema_fields=[
+            {
+                "mode": "NULLABLE",
+                "name": "timestamp",
+                "type": "TIMESTAMP"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "user_id",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "country",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Book_ID",
+                "type": "INTEGER"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Book_Title",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Book_Subtitle",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Book_Author",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Book_Narrator",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Audio_Runtime",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Audiobook_Type",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Categories",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Rating",
+                "type": "STRING"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Total_No__of_Ratings",
+                "type": "FLOAT"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "Price",
+                "type": "FLOAT"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "conversion_rate",
+                "type": "FLOAT"
+            },
+            {
+                "mode": "NULLABLE",
+                "name": "THBPrice",
+                "type": "FLOAT"
+            }
+        ],
+    write_disposition='WRITE_TRUNCATE',
+)
