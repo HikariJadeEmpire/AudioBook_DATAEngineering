@@ -67,7 +67,7 @@ To gain a better understanding, you can check out my separate data cleaning proc
 
 # <h3>Pipeline Orchestration</h3>
 
-- **My Capture :**   [cap :camera:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/blob/main/AirflowJob.JPG)
+- **My Capture :**   [cap :camera:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/blob/main/picture/Capture2.JPG)
 - **My CODE :**   [code :iphone:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/blob/main/ApacheAirflow_manage.py)
 
 ![Data_Orchestration](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/assets/118663358/fa66e1ab-4414-4f12-8a7d-a8392396d55a)
