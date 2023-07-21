@@ -72,5 +72,21 @@ To gain a better understanding, you can check out my separate data cleaning proc
 
 ![Data_Orchestration](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/assets/118663358/fa66e1ab-4414-4f12-8a7d-a8392396d55a)
 
+# <h3>Report</h3>
+
+<div align="center">
+
+<p>You can view my report and others by clicking the badge below.</p>
+  
+<a href="https://lookerstudio.google.com/s/sIAgqJHUmuM">![Name of image](https://img.shields.io/badge/Looker-Audio_Book-blue?style=f?style=flat-square&logo=looker&logoColor=white)</a>
+<a href="https://github.com/HikariJadeEmpire/Main-Repository">![Name of image](https://img.shields.io/badge/Github-portfolio-green?style=f?style=flat-square&logo=github&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/hikarii/">![Name of image](https://img.shields.io/badge/LinkedIn-hikari-blue?style=f?style=flat-square&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/hikarii.19/">![Name of image](https://img.shields.io/badge/instagram-hikari.19-rgb(222,49,99)?style=f?style=flat-square&logo=instagram&logoColor=white)</a>
+
+![AudioBook_Report](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering/assets/118663358/122114e8-33b5-47a0-83c4-2010aa332151)
+
+</div>
+
+
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AudioBook_DATAEngineering#audiobook_dataengineering)
